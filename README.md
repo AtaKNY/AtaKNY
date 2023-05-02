@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atakan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atakny&label=Profile%20views&color=0e75b6&style=flat" alt="atakny" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AtaKNY&column=3&row=2&margin-w=15&margin-h=15&no-frame=true&theme=radical" alt="atakny" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AtaKNY&column=6&row=1&margin-w=15&margin-h=15&no-frame=true&theme=radical" alt="atakny" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
